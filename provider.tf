@@ -10,8 +10,8 @@ terraform {
 
 // Provider
 provider "ncloud" {
-  access_key  = "vGwpKA6X9pNJ6EAb3gq8"
-  secret_key  = "iLBzpHzDWSr0ZJU1oNhrIA3XhvfUpCsVcC5NxfFi"
+  access_key  = ""
+  secret_key  = ""
   region      = "KR"
   site        = "public"
   support_vpc = true
